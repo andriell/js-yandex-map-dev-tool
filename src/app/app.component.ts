@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { YaCoreModule }  from 'angular2-yandex-maps';
 
 @Component({
   selector: 'app-root',
