@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Yandex Map Component';
+  click = function() {
+    this.title = '100500';
+  }
 }
